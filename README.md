@@ -1,9 +1,9 @@
-# TGC-Core Devboard Mega v1
+# TGC-Core-328P-v1
 
 ![Board Render](TGC-Core-devboard-Mega-v1.png)
 
 ## Overview
-The **TGC-Core-devboard-Mega-v1** is an open-source hardware development board. Based on the file naming and standard conventions, it is designed around the "Mega" architecture (typically the Microchip ATmega2560) but upgraded with modern physical interfaces, such as a **USB-C** connector for power and data, and standard 6mm tactile push buttons for reset/user input. 
+The **TGC-Core-328P-v1** is an open-source hardware development board. Based on the file naming and standard conventions, it is designed around the "Mega" architecture (typically the Microchip ATmega2560) but upgraded with modern physical interfaces, such as a **USB-C** connector for power and data, and standard 6mm tactile push buttons for reset/user input. 
 
 This repository contains the complete set of KiCad EDA files necessary to view, modify, and manufacture the printed circuit board (PCB).
 
