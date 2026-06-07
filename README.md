@@ -3,9 +3,9 @@
 ![Board Render](TGC-Core-devboard-Mega-v1.png)
 
 ## Overview
-The **TGC-Core-328P-v1** is an open-source hardware development board. Based on the file naming and standard conventions, it is designed around the "Mega" architecture (typically the Microchip ATmega2560) but upgraded with modern physical interfaces, such as a **USB-C** connector for power and data, and standard 6mm tactile push buttons for reset/user input. 
+The **TGC-Core-328P-v1** is an open-source hardware development board. Based on the file naming and standard conventions, it is designed around the "Mega" architecture (typically the Microchip ATme[...] 
 
-This repository contains the complete set of KiCad EDA files necessary to view, modify, and manufacture the printed circuit board (PCB).
+This repository contains the complete set of KiCad EDA files necessary to view, modify and manufacture the printed circuit board (PCB).
 
 ---
 
@@ -66,13 +66,13 @@ Because this board shares the Mega architecture, it is fully compatible with the
 
 ## License
 
-This hardware design and its accompanying documentation are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** Public License.
+This hardware design and its accompanying documentation are licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)**.
 
-**You are free to:**
-* **Share** — copy and redistribute the material in any medium or format.
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+Summary of your rights under GPLv3:
+* You are free to use, study, share, and modify the material.
+* If you distribute the work (or a derivative), you must license the whole work under GPLv3 as well (share-alike).
+* You must provide source for distributed derivative works and include the GPLv3 license text and copyright notices.
 
-**Under the following terms:**
-* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+For the full legal text, see the GNU licenses page: https://www.gnu.org/licenses/gpl-3.0.html
 
-For the full legal text, please visit the [Creative Commons Website](https://creativecommons.org/licenses/by/4.0/).
+Note: To make the change complete, consider adding a `LICENSE` file containing the full GPLv3 text and an explicit copyright line (for example: "Copyright (c) 2026 ThatGuyCodes605"). I can add that file for you if you want.
